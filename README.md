@@ -12,7 +12,7 @@
 ### - :rocket: Tenho o hábito de me manter atualizado e buscar constantemente novos conhecimentos na área de programação, participando regularmente de diversos cursos e capacitando-me para enfrentar os desafios em constante evolução desse campo.
 
   
-### - :trophy: Tenho o firme anseio de me tornar um programador Fullstack habilidoso e experiente, dominando tanto o desenvolvimento front-end quanto o back-end para criar soluções completas e inovadoras.
+### - :trophy: Tenho o firme anseio de me tornar um Engenheiro de Software habilidoso e experiente, dominando tanto o desenvolvimento front-end quanto o back-end para criar soluções completas e inovadoras.
 
   
 ### - :dart: Atualmente, dedico-me intensamente ao estudo de JavaScript, React, Node.js e Python, buscando aprimorar minhas habilidades nessas tecnologias-chave para o desenvolvimento web e de software.
