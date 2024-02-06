@@ -1,5 +1,5 @@
 
-![Guilherme Ferreir2a](https://github.com/GuilhermeF-R/GuilhermeF-R/assets/136031870/440f579c-503e-4459-a8af-fddd63623f26)
+![SoftwareEngineer](https://github.com/GuilhermeF-R/GuilhermeF-R/assets/136031870/440f579c-503e-4459-a8af-fddd63623f26)
 
 
 
@@ -41,6 +41,6 @@
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />      <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />      <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>     <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />      <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 #
 
-![gif](https://github.com/GuilhermeF-R/GuilhermeF-R/assets/136031870/fa9952b6-e298-4685-90dc-5b53e96362c4)
+![gif](https://github.com/GuilhermeF-R/GuilhermeF-R/assets/136031870/e45d0be3-3288-4b66-a67e-7d96075e88f9)
 
 
