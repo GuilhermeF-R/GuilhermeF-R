@@ -39,7 +39,7 @@
 
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />      <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />      <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>     <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />      <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 #
-# Meus Projetos :arrow_down: ![gif](https://github.com/GuilhermeF-R/GuilhermeF-R/assets/136031870/6a3dfc59-ca97-40f3-b2e3-8dcb249a96d2)   
+# Meus Repositórios :arrow_down: ![gif](https://github.com/GuilhermeF-R/GuilhermeF-R/assets/136031870/6a3dfc59-ca97-40f3-b2e3-8dcb249a96d2)   
 
 
 
