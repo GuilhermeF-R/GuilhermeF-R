@@ -33,14 +33,14 @@
   
 <a href="https://www.instagram.com/devgferreira/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/guilherme-ferreira-25738427a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://www.tiktok.com/@devgferreira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-tiktok-617?style=for-the-badge&logo=tiktok" target="_blank"></a>  
+# 
 
-#
-    
-![GuilhermeF-R's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeF-R&theme=nord&show_icons=true&hide_border=true&layout=compact)
+![GuilhermeF-R's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeF-R&theme=nord&show_icons=true&hide_border=true&layout=compact)                                                                                                        
 
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />      <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />      <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>     <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />      <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 #
+# Meus Projetos :arrow_down: ![gif](https://github.com/GuilhermeF-R/GuilhermeF-R/assets/136031870/6a3dfc59-ca97-40f3-b2e3-8dcb249a96d2)   
 
-![gif](https://github.com/GuilhermeF-R/GuilhermeF-R/assets/136031870/e45d0be3-3288-4b66-a67e-7d96075e88f9)
+
 
 
