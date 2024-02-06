@@ -1,5 +1,6 @@
 
-![Guilherme Ferreira](https://github.com/GuilhermeF-R/GuilhermeF-R/assets/136031870/11b87643-3be5-441f-94f5-12eb349527d7)
+![Guilherme Ferreir2a](https://github.com/GuilhermeF-R/GuilhermeF-R/assets/136031870/440f579c-503e-4459-a8af-fddd63623f26)
+
 
 
 # Olá! meu nome é Guilherme Ferreira 
