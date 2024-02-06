@@ -41,5 +41,6 @@
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />      <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />      <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>     <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />      <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 #
 
-![Snake animation](https://github.com/GuilhermeF-R/GuilhermeF-R/blob/output/github-contribution-grid-snake.svg)
+![gif](https://github.com/GuilhermeF-R/GuilhermeF-R/assets/136031870/fa9952b6-e298-4685-90dc-5b53e96362c4)
+
 
