@@ -1,3 +1,7 @@
+
+![Guilherme Ferreira](https://github.com/GuilhermeF-R/GuilhermeF-R/assets/136031870/11b87643-3be5-441f-94f5-12eb349527d7)
+
+
 # Olá! meu nome é Guilherme Ferreira 
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />      <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />      <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>     <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />      <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
  ##
