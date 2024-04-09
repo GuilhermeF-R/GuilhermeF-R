@@ -26,7 +26,7 @@
 ### - :hammer_and_wrench: Desde jovem, venho estudando programação, inicialmente através de cursos na área. No entanto, foi a partir de 2023 que decidi mergulhar ainda mais fundo nesse universo, buscando um aprofundamento significativo em meus estudos e expandindo minha compreensão das diversas nuances desse campo fascinante.
 
 
-### - :globe_with_meridians: Sempre fui apaixonado por programação e essa paixão tem me impulsionado a buscar um aprendizado contínuo. Apesar de estar imerso nesse mundo há algum tempo, reconheço que ainda há muito a ser aprendido.No entanto, essa consciência só aumenta meu desejo de me aprimorar e mergulhar ainda mais fundo no universo da programação.
+### - :globe_with_meridians: Sempre fui apaixonado por programação e essa paixão tem me impulsionado a buscar um aprendizado contínuo. Apesar de estar imerso nesse mundo há algum tempo, reconheço que ainda há muito a ser aprendido. No entanto, essa consciência só aumenta meu desejo de me aprimorar e mergulhar ainda mais fundo no universo da programação.
 
 #
 ### 📫 Minhas Redes-Sociais:
