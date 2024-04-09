@@ -20,7 +20,7 @@
 ### - :trophy: Tenho o firme anseio de me tornar um Engenheiro de Software habilidoso e experiente, dominando tanto o desenvolvimento front-end quanto o back-end para criar soluções completas e inovadoras.
 
   
-### - :dart: Atualmente, dedico-me intensamente ao estudo de JavaScript, React, Node.js e Python, buscando aprimorar minhas habilidades nessas tecnologias-chave para o desenvolvimento web e de software.
+### - :dart: Atualmente, dedico-me intensamente ao estudo de Node.js e Java, buscando aprimorar minhas habilidades nessas tecnologias-chave para o desenvolvimento web e de software.
 
   
 ### - :hammer_and_wrench: Desde jovem, venho estudando programação, inicialmente através de cursos na área. No entanto, foi a partir de 2023 que decidi mergulhar ainda mais fundo nesse universo, buscando um aprofundamento significativo em meus estudos e expandindo minha compreensão das diversas nuances desse campo fascinante.
