@@ -7,7 +7,7 @@
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />      <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />      <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />    <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> 
  ##
 
-### - :man_technologist: Tenho 19 anos e atualmente estou cursando Engenharia de Software na Unicesumar.
+### - :man_technologist: Tenho 21 anos e atualmente estou cursando Engenharia de Software na Unicesumar.
 
   
 ### - :rocket: Tenho o hábito de me manter atualizado e buscar constantemente novos conhecimentos na área de programação, participando regularmente de diversos cursos e capacitando-me para enfrentar os desafios em constante evolução desse campo.
